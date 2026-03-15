@@ -1,4 +1,4 @@
-# 🛰️ Satellites & Space Debris — Orbit Analysis & Prediction
+# 🛰️ Satellites & Space Debris - Orbit Analysis & Prediction
 
 > 🇷🇺 [Читать на русском](README.ru.md)
 
@@ -10,7 +10,7 @@ A two-part data science project on satellites and space debris orbiting Earth. T
 
 ## Dataset
 
-**Source:** [Kaggle — Satellites and Debris in Earth's Orbit](https://www.kaggle.com/datasets/kandhalkhandeka/satellites-and-debris-in-earths-orbit)  
+**Source:** [Kaggle - Satellites and Debris in Earth's Orbit](https://www.kaggle.com/datasets/kandhalkhandeka/satellites-and-debris-in-earths-orbit)  
 **File:** `space_decay.csv`
 
 ### Key Features
